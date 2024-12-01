@@ -1,0 +1,85 @@
+{
+  "movies": [
+    {
+      "id": "3",
+      "title": "Viswam",
+      "description": "Viswam is an action comedy that follows Gopi, who assumes a new identity while trying to protect a young girl from terrorists, revealing his past and the lengths he will go to for love and justice.",
+      "imageUrl": "/moviesimages/img-1.png",
+      "watchUrl": "watch_url_3",
+      "trailerUrl": "https://www.youtube.com/watch?v=xKvz1t2sWKw"
+    },
+    {
+      "id": "4",
+      "title": "Swag",
+      "description": "Swag is a comedy-drama about a police officer navigating family dynamics and greed to claim ancestral wealth while addressing themes of gender equality.",
+      "imageUrl": "/moviesimages/swag.avif",
+      "watchUrl": "watch_url_4",
+      "trailerUrl": "https://www.youtube.com/watch?v=QOhbHFpbseI"
+    },
+    {
+      "id": "5",
+      "title": "Lucky Bhaskar",
+      "description": "Lucky Bhaskar is a gripping crime thriller about a bank cashier whose financial desperation leads him into a dangerous world of crime and moral dilemmas.",
+      "imageUrl": "/moviesimages/lucky.jpg",
+      "watchUrl": "watch_url_5",
+      "trailerUrl": "https://www.youtube.com/watch?v=eNUVkUnAlPI"
+    },
+    {
+      "id": "6",
+      "title": "Kanguva",
+      "description": "Kanguva is an epic fantasy action film about bounty hunter Francis, whose destiny intertwines with a young boy across two timelines as he battles to protect his tribe from invaders.",
+      "imageUrl": "/moviesimages/kanguva.jpg",
+      "watchUrl": "watch_url_6",
+      "trailerUrl": "https://www.youtube.com/watch?v=eIl0QbO7GNM"
+    },
+    {
+      "id": "7",
+      "title": "Saripodha Sanivaram",
+      "description": "Saripodhaa Sanivaram is an action drama that follows Surya, a man who unleashes his vigilante justice every Saturday against a corrupt cop, Dayanand, while navigating personal relationships and community challenges.",
+      "imageUrl": "/moviesimages/saripodhaa.jpg",
+      "watchUrl": "watch_url_7",
+      "trailerUrl": "https://www.youtube.com/watch?v=dkx07ZvjKE4"
+    },
+    {
+      "id": "8",
+      "title": "Mr. Bachan",
+      "description": "Mr. Bachchan is a romantic action drama that follows Anand, an honest income tax officer, who falls in love with Jikki while navigating the challenges posed by a powerful local politician seeking revenge against him.",
+      "imageUrl": "/moviesimages/bachan.jpg",
+      "watchUrl": "watch_url_8",
+      "trailerUrl": "https://www.youtube.com/watch?v=cGZiZTUY4po"
+    },
+    {
+      "id": "9",
+      "title": "Hanuman",
+      "description": "Hanuman is a superhero film that follows Hanumanthu, a petty thief who gains extraordinary powers from a mystical gem, as he battles the villainous Mega Man to protect his village, Anjanadri, while navigating themes of love and personal growth",
+      "imageUrl": "/moviesimages/img-6.jpg",
+      "watchUrl": "watch_url_9",
+      "trailerUrl": "https://www.youtube.com/watch?v=Oqvly3MvlXA"
+    },
+    {
+      "id": "10",
+      "title": "Mathu Vadalara 2",
+      "description": "Mathu Vadalara 2 is a crime comedy that follows special officers Babu and Yesudas as they investigate a kidnapping case that unravels a deeper mystery involving murder, deception, and their innocence being questioned.",
+      "imageUrl": "/moviesimages/img-2.png",
+      "watchUrl": "watch_url_10",
+      "trailerUrl": "https://www.youtube.com/watch?v=ahZX-ewuZP8"
+    },
+    {
+      "id": "1732773125936",
+      "title": "Amaran",
+      "description": "Amaran is a poignant biographical war drama that follows Major Mukund Varadarajan, portrayed by Sivakarthikeyan, as he navigates love and duty while serving in the Indian Army. The film intertwines his romantic journey with the harsh realities of military life, culminating in a tribute to bravery and sacrifice.",
+      "imageUrl": "/moviesimages/amaran.jpg",
+      "watchUrl": "",
+      "trailerUrl": "https://youtu.be/U3aPapvUihg?si=YHJ8CqFB7NZ3BOBu"
+    },
+    {
+      "id": "1732773562452",
+      "title": "Devara",
+      "description": "Amaran is a poignant biographical war drama that follows Major Mukund Varadarajan, portrayed by Sivakarthikeyan, as he navigates love and duty while serving in the Indian Army. The film intertwines his romantic journey with the harsh realities of military life, culminating in a tribute to bravery and sacrifice.",
+      "imageUrl": "/moviesimages/Devera.png",
+      "watchUrl": "",
+      "trailerUrl": " https://youtu.be/U3aPapvUihg?si=YHJ8CqFB7NZ3BOBu"
+    }
+  ],
+  "watchlist": []
+}
